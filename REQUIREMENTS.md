@@ -5,3 +5,7 @@ Myro is an AI-powered travel planning service that creates personalized travel i
 https://datasirup.tistory.com/59
 
 This blog contains the Python code of a TODOLIST. This code provides options to input the task number, task name, task registration date, and task completion date. It also provides the option to change the task condition if completed, delete an existing task, and print all the existing functions.
+
+https://github.com/ebnbatran/todocpp.git
+
+This url contains a C++ code of a small TODOLIST. This contains items and various manipulation methods and each item has information about a specific task.
