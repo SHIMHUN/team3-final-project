@@ -14,6 +14,7 @@ This blog contains the Python code of a TODOLIST. This code provides options to 
 
 https://github.com/ebnbatran/todocpp.git
 
+<hr/>
 
 Proposals:
 
