@@ -1,25 +1,26 @@
 object, function, procedure
 
-brief structure
+### brief structure
 리액트 프레임워크를 활용한 자바스크립트 기반 TO-DO 리스트
 
-`data.js` : 초기 할일 Data
-`SetNewTask.jsx`  : 새로운 일 등록 컴포넌트
+### 기능 설명
+data.js : 초기 할일 Data
+SetNewTask.jsx : 새로운 일 등록 컴포넌트
 검색창
 
-`Task.js` : 해야할 일 표시 컴포넌트
-`SetNewTask` 에서 등록한 일을 보여준다.
+Task.js : 해야할 일 표시 컴포넌트
+SetNewTask 에서 등록한 일을 보여준다.
 완료 버튼을 옆에 배치, 해당 버튼을 누르면 완료한 일로 이동
     
-`Done.js` : 완료한 일 표시 컴포넌트
-`Task` 에서 완료한 일을 가시화
+Done.js : 완료한 일 표시 컴포넌트
+Task 에서 완료한 일을 가시화
 삭제 버튼을 옆에 배치, 해당 버튼을
     
-`NowDate.jsx` : 오늘 날짜 컴포넌트
+NowDate.jsx : 오늘 날짜 컴포넌트
 오늘 날짜를 보여주는
     
-`App.js` : 메인 페이지
+App.js : 메인 페이지
 
-`Modal.js` : 삭제 모달 컴포넌트
+Modal.js : 삭제 모달 컴포넌트
 완료한 일의 삭제 버튼을 누를 시 하기 전에 나오는 모달 창
 상단 모든 컴포넌트를 조합한 페이지
