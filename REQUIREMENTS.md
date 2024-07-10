@@ -17,8 +17,9 @@ This url contains a C++ code of a small TODOLIST. This contains items and variou
 
 <hr/>
 
-### Proposals
 <br/>
+### Proposals
+
 <hr/>
 
 Upon comparing the three works our team researched, we identified the need for a simple and fast TODOLIST. Our TODOLIST will allow users to add and delete tasks. This project will be implemented using the React framework, leveraging JavaScript for dynamic and straightforward web development. The TODOLIST focuses on enabling users to efficiently manage schedules by adding and removing tasks as needed.
