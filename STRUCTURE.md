@@ -1,5 +1,3 @@
-object, function, procedure
-
 ### brief structure
 
 <hr/>
