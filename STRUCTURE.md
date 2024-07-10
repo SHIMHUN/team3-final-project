@@ -1,9 +1,17 @@
 object, function, procedure
 
 ### brief structure
+
+<hr/>
+
 리액트 프레임워크를 활용한 자바스크립트 기반 TO-DO 리스트
 
+<hr/>
+
 ### 기능 설명
+
+<hr/>
+
 data.js : 초기 할일 Data
 SetNewTask.jsx : 새로운 일 등록 컴포넌트
 검색창
@@ -24,3 +32,5 @@ App.js : 메인 페이지
 Modal.js : 삭제 모달 컴포넌트
 완료한 일의 삭제 버튼을 누를 시 하기 전에 나오는 모달 창
 상단 모든 컴포넌트를 조합한 페이지
+
+<hr/>
