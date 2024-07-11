@@ -12,12 +12,14 @@ function App() {
     <div className="container">
       <div className="content">
         <div className="title">
-          <h1>UMC Study Plan</h1>
+          <h1>To Do List</h1>
+          <h3>
+            <NowDate />
+          </h3>
         </div>
+
         <Admintask todo={todo} setTodo={setTodo} />
-        <h3>
-          <NowDate />
-        </h3>
+
         <div className="todolist">
           <div className="todo">
             <h4>해야할 일</h4>

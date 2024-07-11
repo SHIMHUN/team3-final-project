@@ -6,7 +6,7 @@ function Admintask({ todo, setTodo }) {
   return (
     <div className="input-box">
       <input
-        placeholder="UMC 스터디 계획을 작성해보세요!"
+        placeholder="오늘의 할 일을 작성해주세요!"
         id="newtask"
         onChange={e => {
           setNewTask(e.target.value);
